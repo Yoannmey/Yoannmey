@@ -1,7 +1,3 @@
-# Yoann Meynsan
-<p align="center">
-  <img src="https://img.shields.io/badge/Concepteur%20Développeur%20d'Applications-red?style=flat-square" alt="Concepteur Développeur d'Applications">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/CESI%20Brest-yellow?style=flat-square" alt="CESI Brest">
-</p>
+<h1 align="center"><strong>Yoann Meynsan</strong></h1>
+<h2 align="center"><strong>Concepteur Développeur d'Applications</strong></h2>
+<h2 align="center"><strong>CESI Brest</strong></h3>
